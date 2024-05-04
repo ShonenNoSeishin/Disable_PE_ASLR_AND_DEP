@@ -30,6 +30,6 @@ options:
 
 ## Credits
 
-A huge thanks to <a href="https://github.com/MastMind)" target="_blank">MastMind</a>, this script is inspired of a part of his PE-Infector project.
+A huge thanks to <a href="https://github.com/MastMind" target="_blank">MastMind</a>, this script is inspired of a part of his PE-Infector project.
 
 ## Enjoy
