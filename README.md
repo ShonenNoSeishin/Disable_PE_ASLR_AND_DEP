@@ -27,3 +27,9 @@ options:
   -a, --disable_aslr    Désactiver l'ASLR
   -d, --disable_dep     Désactiver le DEP
 ````
+
+## Credits
+
+A huge thanks to <a href="https://github.com/MastMind)" target="_blank">MastMind</a>, this script is inspired of a part of his PE-Infector project.
+
+## Enjoy
